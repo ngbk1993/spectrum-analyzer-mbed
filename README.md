@@ -1,5 +1,5 @@
 # This is spectrum analyzer code
-This spectrum analyzer code is for my master assignment
+This spectrum analyzer code is for my master assignment on the subject Advance Microprocessor System
 
 # Hardware
 1) Nucleo F411RE (ARM Cortex m4)
