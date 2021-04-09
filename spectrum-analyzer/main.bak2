@@ -1,0 +1,11 @@
+#include "mbed.h"
+
+DigitalOut myled(LED2);
+
+int main () {
+	while(1) {
+		myled = !myled;
+	        wait (0.5);
+	}
+}
+
